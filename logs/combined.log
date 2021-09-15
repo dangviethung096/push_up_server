@@ -1,0 +1,122 @@
+info: --------------------------Start server with 3000---------------------------- {"service":"user-service"}
+info: Connected to Db: mongodb://127.0.0.1:27017/pushup {"service":"user-service"}
+info: --------------------------Start server with 3000---------------------------- {"service":"user-service"}
+info: Connected to Db: mongodb://127.0.0.1:27017/pushup {"service":"user-service"}
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+undefined
+{
+  message: '--------------------------Start server with 3000----------------------------',
+  level: 'info',
+  service: 'user-service',
+  label: 'API',
+  timestamp: '2021-09-15T08:53:15.183Z'
+}
+{
+  message: 'Connected to Db: mongodb://127.0.0.1:27017/pushup',
+  level: 'info',
+  service: 'user-service',
+  label: 'API',
+  timestamp: '2021-09-15T08:53:15.203Z'
+}
+undefined
+undefined
+undefined
+undefined
+{
+  message: '--------------------------Start server with 3000----------------------------',
+  level: 'info',
+  service: 'user-service',
+  label: 'API',
+  timestamp: '2021-09-15T08:54:03.997Z'
+}
+{
+  message: 'Connected to Db: mongodb://127.0.0.1:27017/pushup',
+  level: 'info',
+  service: 'user-service',
+  label: 'API',
+  timestamp: '2021-09-15T08:54:04.019Z'
+}
+{
+  message: '--------------------------Start server with 3000----------------------------',
+  level: 'info',
+  service: 'user-service',
+  label: 'API',
+  timestamp: '2021-09-15T08:54:04.955Z'
+}
+{
+  message: 'Connected to Db: mongodb://127.0.0.1:27017/pushup',
+  level: 'info',
+  service: 'user-service',
+  label: 'API',
+  timestamp: '2021-09-15T08:54:04.975Z'
+}
+undefined
+undefined
+{
+  message: '--------------------------Start server with 3000----------------------------',
+  level: 'info',
+  service: 'user-service',
+  label: 'API',
+  timestamp: '2021-09-15T08:54:55.576Z'
+}
+{
+  message: 'Connected to Db: mongodb://127.0.0.1:27017/pushup',
+  level: 'info',
+  service: 'user-service',
+  label: 'API',
+  timestamp: '2021-09-15T08:54:55.596Z'
+}
+{
+  message: '--------------------------Start server with 3000----------------------------',
+  level: 'info',
+  service: 'user-service',
+  label: 'API',
+  timestamp: '2021-09-15T08:56:18.378Z'
+}
+{
+  message: 'Connected to Db: mongodb://127.0.0.1:27017/pushup',
+  level: 'info',
+  service: 'user-service',
+  label: 'API',
+  timestamp: '2021-09-15T08:56:18.402Z'
+}
+undefined
+undefined
+
+
+API | 2021-09-15T08:59:20.055Z | 
+API | 2021-09-15T08:59:20.072Z | 
+API | 2021-09-15T08:59:29.466Z | info
+API | 2021-09-15T08:59:29.484Z | info
+API | 2021-09-15T08:59:31.699Z | info | 
+API | 2021-09-15T08:59:31.716Z | info | 
+API | 2021-09-15T08:59:35.404Z | info | --------------------------Start server with 3000----------------------------
+API | 2021-09-15T08:59:35.428Z | info | Connected to Db: mongodb://127.0.0.1:27017/pushup
+API | 2021-09-15T08:59:36.236Z | info | --------------------------Start server with 3000----------------------------
+API | 2021-09-15T08:59:36.254Z | info | Connected to Db: mongodb://127.0.0.1:27017/pushup
+API | 2021-09-15T08:59:44.048Z info | --------------------------Start server with 3000----------------------------
+API | 2021-09-15T08:59:44.066Z info | Connected to Db: mongodb://127.0.0.1:27017/pushup
+API | 2021-09-15T09:00:35.471Z info | --------------------------Start server with 3000----------------------------
+API | 2021-09-15T09:00:35.488Z info | Connected to Db: mongodb://127.0.0.1:27017/pushup
