@@ -1,9 +1,12 @@
 const response = require('../response/http.response');
+const tracer = require('../../log/tracer');
 
 class ErrorHandler {
     handle(error, req, res, next) {
-        response.ResError(error);
+        tracer.info(`[handle] ${JSON.stringify(error)}`);
+        response.ResError(error, res);
     }
 }
 
-module.exports = ErrorHandler;
+let errorHandler = new ErrorHandler();
+module.exports = errorHandler;

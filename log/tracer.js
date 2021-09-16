@@ -12,7 +12,7 @@ const format = winston.format.combine(
 );
 
 const tracer = winston.createLogger({
-    level: 'info',
+    level: 'debug',
     format: format,
     defaultMeta: { service: 'user-service' },
     transports: [
